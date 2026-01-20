@@ -99,10 +99,7 @@ Our mission is simple yet powerful: **Build technology that matters**.
       </p>
     </td>
   </tr>
-
 </table>
-
-
 
 ---
 
@@ -164,30 +161,31 @@ Our mission is simple yet powerful: **Build technology that matters**.
 
 Meet the talented individuals behind Platanito Solutions:
 
-<table align="center">
+<div align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/joseenrique61">
         <img src="https://github.com/joseenrique61.png" width="120px;" alt="Jose Cerezo" style="border-radius: 50%;"/><br />
         <sub><b>José Cerezo</b></sub><br />
         <sub>Founder</sub>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/camiloo1210">
         <img src="https://github.com/camiloo1210.png" width="120px;" alt="Camilo Brazales" style="border-radius: 50%;"/><br />
         <sub><b>Camilo Brazales</b></sub><br />
         <sub>Founder</sub>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/Camilyyyy">
         <img src="https://github.com/Camilyyyy.png" width="120px;" alt="Camily Solorzano" style="border-radius: 50%;"/><br />
         <sub><b>Camily Solórzano</b></sub><br />
         <sub>Founder</sub>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/Arieloou">
         <img src="https://github.com/Arieloou.png" width="120px;" alt="Ariel Anchapaxi" style="border-radius: 50%;"/><br />
         <sub><b>Ariel Anchapaxi</b></sub><br />
@@ -196,16 +194,23 @@ Meet the talented individuals behind Platanito Solutions:
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=Platanito-Solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=FFD700&text_color=FFFFFF&count_private=true&include_all_commits=true)
+### 🔥 Contribution Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Platanito-Solutions&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&langs_count=8)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joseenrique61&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A90E2&line=FFD700&point=FFFFFF&area=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseenrique61&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&langs_count=8)
+
+*Note: Stats shown are from team members' individual contributions*
 
 </div>
 
