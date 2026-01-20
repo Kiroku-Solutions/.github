@@ -202,15 +202,26 @@ Meet the talented individuals behind Platanito Solutions:
 
 <div align="center">
 
-### 🔥 Contribution Stats
+### 🏢 Organization Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joseenrique61&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A90E2&line=FFD700&point=FFFFFF&area=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Platanito-Solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=FFD700&text_color=FFFFFF&include_all_commits=true&count_private=false&show=reviews,prs_merged,prs_merged_percentage" alt="Platanito Solutions Stats" width="495"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Platanito-Solutions&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90E2&fire=FFD700&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="495"/>
+    </td>
+  </tr>
+</table>
 
-### 💻 Most Used Languages
+### 📈 Repository Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseenrique61&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&langs_count=8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Platanito-Solutions&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A90E2&line=FFD700&point=FFFFFF&area=true&custom_title=Platanito%20Solutions%20Activity%20Graph)
 
-*Note: Stats shown are from team members' individual contributions*
+### 💻 Most Used Languages Across Repositories
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Platanito-Solutions&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&langs_count=8&hide=html,css)
 
 </div>
 
