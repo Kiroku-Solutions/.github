@@ -5,9 +5,9 @@
 ### *Innovative solutions for a better tomorrow*
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Platanito-Solutions?style=for-the-badge&logo=github&label=Followers&color=4A90E2" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Platanito-Solutions?style=for-the-badge&logo=github&label=Total%20Stars&color=FFD700" alt="GitHub Stars">
-  <img src="https://komarev.com/ghpvc/?username=Platanito-Solutions&style=for-the-badge&color=00D26A&label=Profile+Views" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Kiroku-Solutions?style=for-the-badge&logo=github&label=Followers&color=4A90E2" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/Kiroku-Solutions?style=for-the-badge&logo=github&label=Total%20Stars&color=FFD700" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=Kiroku-Solutions&style=for-the-badge&color=00D26A&label=Profile+Views" alt="Profile Views">
 </p>
 
 <p align="center">
