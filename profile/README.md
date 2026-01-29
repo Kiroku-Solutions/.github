@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍌 Platanito Solutions
+# 🐙 Kiroku 🐙
 
 ### *Innovative solutions for a better tomorrow*
 
@@ -24,7 +24,7 @@
 
 ## 🌟 About Us
 
-**Platanito Solutions** is a cutting-edge technology company founded in **Ecuador** 🇪🇨, dedicated to creating **innovative digital solutions** that transform ideas into reality. We leverage modern tools and frameworks to build products that make a real difference in people's lives.
+**Kiroku** is a cutting-edge technology company founded in **Ecuador** 🇪🇨, dedicated to creating **innovative digital solutions** that transform ideas into reality. We leverage modern tools and frameworks to build products that make a real difference in people's lives.
 
 Our mission is simple yet powerful: **Build technology that matters**.
 
