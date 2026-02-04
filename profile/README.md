@@ -140,32 +140,39 @@ Meet the talented individuals behind Kiroku:
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/joseenrique61">
         <img src="https://github.com/joseenrique61.png" width="120px;" alt="Jose Cerezo" style="border-radius: 50%;"/><br />
         <sub><b>José Cerezo</b></sub><br />
         <sub>Founder</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/camiloo1210">
         <img src="https://github.com/camiloo1210.png" width="120px;" alt="Camilo Brazales" style="border-radius: 50%;"/><br />
         <sub><b>Camilo Brazales</b></sub><br />
         <sub>Founder</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/Camilyyyy">
         <img src="https://github.com/Camilyyyy.png" width="120px;" alt="Camily Solorzano" style="border-radius: 50%;"/><br />
         <sub><b>Camily Solórzano</b></sub><br />
         <sub>Founder</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/Arieloou">
         <img src="https://github.com/Arieloou.png" width="120px;" alt="Ariel Anchapaxi" style="border-radius: 50%;"/><br />
         <sub><b>Ariel Anchapaxi</b></sub><br />
         <sub>Founder</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/sekai882">
+        <img src="https://github.com/sekai882.png" width="120px;" alt="Josué Mullo" style="border-radius: 50%;"/><br />
+        <sub><b>Josué Mullo</b></sub><br />
+        <sub>Project Manager</sub>
       </a>
     </td>
   </tr>
